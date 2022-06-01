@@ -1,0 +1,44 @@
+#Ethertypes
+0x0800 IPv4
+0x0806 ARP
+0x86dd IPv6
+0x0801 X.75 Internet
+0x0805 X.25 Level 3
+0x8035 ARP
+0x809b Appletalk
+0x80f3 AppleTalk AARP (Kinetics)
+0x8100 IEEE 802.1Q VLAN-tagged frames
+0x8137 Novell IPX
+0x86dd IPv6
+0x880b PPP
+0x8847 MPLS
+0x8848 MPLS with upstream-assigned label
+0x8863 PPPoE Discovery Stage
+0x8864 PPPoE Session Stage
+#LSAPs
+0x00 Null SAP
+0x02 LLC Sublayer Management / Individual
+0x03 LLC Sublayer Management / Group
+0x06 IP (DoD Internet Protocol)
+0x0e PROWAY (IEC 955) Network Management, Maintenance and Installation
+0x42 STP
+0x4e MMS
+0x5e ISI IP
+0x7e X.25 PLP (ISO 8208)
+0x8e PROWAY (IEC 955) Active Station List Maintenance
+0xe0 IPX
+0xfe ISO Network Layer Protocols
+#IP Protocol numbers
+0x01 1 ICMP
+0x06 6 TCP
+0x11 17 UDP
+#TCP ports
+0x0016 22 SSH
+0x0050 80 HTTP
+0x01bb 443 HTTPS
+0x0017 23 TELNET
+0x0014 20 FTP - data
+0x0015 21 FTP - control
+#UDP ports
+0x0045 TFTP
+#
